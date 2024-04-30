@@ -1,6 +1,3 @@
-Bien sûr, voici un exemple de README pour votre projet :
-
----
 
 # Curriculum Vitae en HTML
 
