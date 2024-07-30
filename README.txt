@@ -32,9 +32,4 @@ Ce CV a été créé en utilisant uniquement HTML pour assurer une portabilité 
 Ce CV en HTML a été créé par [Paul-Franck Dencausse](https://github.com/Paul-FranckDencausse).
 
 ## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
-
----
-
-N'oubliez pas de personnaliser les sections en fonction de vos besoins et de votre profil professionnel. Si vous avez des questions ou des suggestions, n'hésitez pas à les ajouter dans la section "Issues" de ce dépôt GitHub.
+=
